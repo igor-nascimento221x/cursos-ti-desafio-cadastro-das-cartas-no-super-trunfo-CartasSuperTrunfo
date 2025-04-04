@@ -149,5 +149,6 @@ Conforme a descrição da atividade, foi cumprida cada solicitação. Porém, to
 -Na parte de fazer o código da carta, criei um modo em que o jogador usará o país e os códigos telefônicos para não correr o risco de criar códigos de mesmo valor repetidamente.
 -Em estado e país, coloquei para inserir somente a sigla, evitando riscos de digitação por parte de futuras pessoas que não possuam tanta familiaridade com a linguagem como eu, já que muitos estados e países possuem nomes compostos.
 Agradeço a atenção.
+DATA 04/04/2025
 */
 
